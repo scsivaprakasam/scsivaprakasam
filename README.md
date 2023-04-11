@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ### Technical Skills
 | Technology    | Tools         |       
 | ------------- | ------------- |
-| `Public cloud` | <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://download.logo.wine/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.png"  alt="azure" width="40" height="40"/> </a> <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://chroniclesofai.com/content/images/2021/04/gcp.png"  alt="GCP" width="40" height="40"/> </a>  |
+| `Public cloud` | <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://download.logo.wine/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.png"  alt="azure" width="40" height="40"/> </a> <a href="cloud.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:600/1*HU-cFeuYyYtjokQblAeLOw.jpeg"  alt="OCI" width="40" height="40"/> </a>  |
 | `Version control` | Github  |
 | `Continuous Integration` | Jenkins, GitHub Actions, AWS CodePipeline   |
 | `Continuous Delivery` | AWS CodeDeploy, Ansible, Chef, Terraform, CloudFormation  |
