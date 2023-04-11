@@ -14,4 +14,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on AWS, Azure, OCI and GCP
+- 📫 How to reach me: sc.sivaprakasam@gmail.com
+
+
+
+### Technical Skills
+| Technology    | Tools         |       
+| ------------- | ------------- |
+| `Public cloud` | <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://download.logo.wine/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.png"  alt="azure" width="40" height="40"/> </a> <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://chroniclesofai.com/content/images/2021/04/gcp.png"  alt="GCP" width="40" height="40"/> </a>  |
+| `Version control` | Github  |
+| `Continuous Integration` | Jenkins, GitHub Actions, AWS CodePipeline   |
+| `Continuous Delivery` | AWS CodeDeploy, Ansible, Chef, Terraform, CloudFormation  |
+| `Scripting` | Python, Bash/shell  |
+| `Monitoring` | Grafana, Prometheus, Elasticsearch, Kibana, logstash, Nagios   |
+| `Containerization` | Kubernetes, Docker  |
+| `Service Mesh` | Istio  |
+
 
